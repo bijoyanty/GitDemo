@@ -46,6 +46,8 @@ public class SeleniumWebTest {
 		
 		log.error("This is a error");
 		log.info("The test is ended");
+		log.info("The test is ended");
+		log.info("The test is ended");
 		
 		test.fail("Result do not match");
 		
